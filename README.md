@@ -1,3 +1,6 @@
+To run locally:
+clone, install jekyll, and `bundle exec jekyll serve`
+
 ## Credit
 
 * https://github.com/jamigibbs/phantom.git
